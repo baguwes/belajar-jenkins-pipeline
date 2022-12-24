@@ -1,7 +1,7 @@
 pipeline {
     agent {
         node {
-            label "jenkins-server02"
+            label "linux"
         }
     }
 
